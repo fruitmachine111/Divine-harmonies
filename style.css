@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 10px;
+}
+
+nav button {
+    margin-right: 5px;
+}
+
+#promo {
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#subscribe-form {
+    margin-top: 10px;
+}
+
+label, input, button {
+    margin: 5px;
+}
+
+#artist img {
+    width: 100%;
+    height: auto;
+}
+
+#content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+#quotes {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
